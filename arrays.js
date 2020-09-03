@@ -43,4 +43,3 @@ function removeElementFromEndOfArray(array){
   return array.slice(0,array.length-1)
 }
 
-/* B O N U S*/
